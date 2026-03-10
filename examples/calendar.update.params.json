@@ -1,0 +1,16 @@
+{
+  "identifier": "event-123",
+  "title": "Team Sync",
+  "startISO": "2026-03-15T14:00:00Z",
+  "endISO": "2026-03-15T14:30:00Z",
+  "isAllDay": false,
+  "location": "Room 4A",
+  "notes": "Updated by OpenClaw",
+  "calendarTitle": "Work",
+  "alarmOffsetsMinutes": [
+    -15,
+    -5
+  ],
+  "clearAllAlarms": false
+}
+

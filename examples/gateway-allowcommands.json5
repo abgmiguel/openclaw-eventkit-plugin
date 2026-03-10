@@ -1,0 +1,19 @@
+{
+  gateway: {
+    nodes: {
+      // Keep this list narrow and explicit.
+      allowCommands: [
+        "calendar.events",
+        "reminders.list",
+        "calendar.update",
+        "reminders.update"
+      ],
+      // Optional: keep dangerous write commands denied until explicitly needed.
+      denyCommands: [
+        "calendar.add",
+        "reminders.add"
+      ]
+    }
+  }
+}
+

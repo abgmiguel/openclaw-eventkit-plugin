@@ -1,0 +1,13 @@
+{
+  "identifier": "rem-123",
+  "title": "Submit report",
+  "dueISO": "2026-03-16T17:00:00Z",
+  "notes": "Attach Q1 draft",
+  "listName": "Work",
+  "completed": false,
+  "alarmOffsetsMinutes": [
+    -60
+  ],
+  "clearAllAlarms": false
+}
+
