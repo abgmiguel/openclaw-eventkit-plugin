@@ -1,2 +1,6 @@
 .DS_Store
 
+
+code/ts/node_modules/
+code/ts/pnpm-lock.yaml
+code/swift/.build/

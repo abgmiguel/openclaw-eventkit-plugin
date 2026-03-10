@@ -1,4 +1,0 @@
-module OpenClawRuntime {
-    header "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawRuntime.build/OpenClawRuntime-Swift.h"
-    requires objc
-}
