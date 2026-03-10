@@ -1,8 +1,18 @@
 # OpenClaw EventKit Plugin Implementation Docs
 
-This repository is a commit-ready documentation pack for implementing and maintaining the EventKit plugin surface in OpenClaw.
+Production-ready documentation pack for implementing and maintaining the EventKit plugin surface in OpenClaw.
 
 It is written for engineers who need a fast, correct path from zero to production.
+
+## Table of Contents
+
+- [What This Covers](#what-this-covers)
+- [Repo Layout](#repo-layout)
+- [Quick Start](#quick-start)
+- [Source of Truth](#source-of-truth)
+- [Tooling Baseline](#tooling-baseline)
+- [Publish to GitHub](#publish-to-github)
+- [License](#license)
 
 ## What This Covers
 
@@ -34,6 +44,13 @@ Out of scope:
 - `docs/09-troubleshooting.md`: common failures and fixes
 - `examples/`: copy-paste request/config snippets
 
+## Quick Start
+
+1. Read `docs/02-command-contract.md` for exact API shapes.
+2. Follow `docs/06-implementation-playbook.md` in order.
+3. Run tests from `docs/07-testing-and-validation.md`.
+4. Use `docs/08-rollout-checklist.md` before merge.
+
 ## Source of Truth
 
 These docs were derived from current OpenClaw code at:
@@ -54,15 +71,21 @@ These docs were derived from current OpenClaw code at:
 - `src/gateway/gateway-misc.test.ts`
 - `src/wizard/onboarding.gateway-config.test.ts`
 
-## Quick Start
-
-1. Read `docs/02-command-contract.md` for exact API shapes.
-2. Follow `docs/06-implementation-playbook.md` in order.
-3. Run tests from `docs/07-testing-and-validation.md`.
-4. Use `docs/08-rollout-checklist.md` before merge.
-
 ## Tooling Baseline
 
 - OpenClaw shared Swift package uses Swift tools `6.2`.
 - iOS tests require an Xcode/toolchain baseline that can resolve Swift `6.2` package manifests.
 
+## Publish to GitHub
+
+Create an empty GitHub repository, then push:
+
+```bash
+cd /Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs
+git remote add origin git@github.com:<your-username>/openclaw-eventkit-plugin-docs.git
+git push -u origin main
+```
+
+## License
+
+MIT. See [`LICENSE`](./LICENSE).
