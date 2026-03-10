@@ -84,7 +84,7 @@ Both services throw `NSError` with stable domain and code families:
 - Calendar domain: `"Calendar"` codes include invalid input, not found, permission required.
 - Reminders domain: `"Reminders"` codes include invalid input, not found, permission required.
 
-User-visible messages follow prefixed tokens such as:
+User-visible messages follow prefixed markers such as:
 
 - `CALENDAR_PERMISSION_REQUIRED`
 - `CALENDAR_INVALID`
@@ -92,4 +92,3 @@ User-visible messages follow prefixed tokens such as:
 - `REMINDERS_PERMISSION_REQUIRED`
 - `REMINDERS_INVALID`
 - `REMINDERS_NOT_FOUND`
-

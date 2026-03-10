@@ -8,6 +8,7 @@ It is written for engineers who need a fast, correct path from zero to productio
 
 - [What This Covers](#what-this-covers)
 - [Repo Layout](#repo-layout)
+- [Code Handoff](#code-handoff)
 - [Quick Start](#quick-start)
 - [Source of Truth](#source-of-truth)
 - [Tooling Baseline](#tooling-baseline)
@@ -43,6 +44,38 @@ Out of scope:
 - `docs/08-rollout-checklist.md`: merge/release checklist
 - `docs/09-troubleshooting.md`: common failures and fixes
 - `examples/`: copy-paste request/config snippets
+- `code/swift/`: runnable Swift package with EventKit implementation + tests
+- `code/ts/`: runnable TypeScript policy/onboarding module + Vitest tests
+- `APPLY_TO_OPENCLAW.md`: exact file mapping and apply steps back to OpenClaw
+
+## Code Handoff
+
+This repository now includes implementation code, not only docs:
+
+- `code/swift/Sources/OpenClawKit/`:
+  - `CalendarCommands.swift`
+  - `RemindersCommands.swift`
+- `code/swift/Sources/OpenClawRuntime/`:
+  - `EventKitAuthorization.swift`
+  - `CalendarService.swift`
+  - `RemindersService.swift`
+  - `NodeServiceProtocols.swift` (EventKit slice)
+  - `NodeAppModel.swift` (EventKit invoke-routing slice)
+  - `GatewayConnectionController.swift` (EventKit capability/permission slice)
+- `code/swift/Tests/`:
+  - `EventKitCommandsCodableTests.swift`
+  - `NodeAppModelInvokeTests.swift` (update routing cases)
+  - `GatewayConnectionControllerTests.swift` (permission/command cases)
+- `code/ts/src/`:
+  - `gateway/node-command-policy.ts`
+  - `wizard/onboarding.gateway-config.ts`
+  - `gateway/gateway-misc.test.ts`
+  - `wizard/onboarding.gateway-config.test.ts`
+
+Validation entry points:
+
+- Swift: `cd code/swift && swift test`
+- TS: `cd code/ts && pnpm vitest run`
 
 ## Quick Start
 
@@ -81,7 +114,7 @@ These docs were derived from current OpenClaw code at:
 Create an empty GitHub repository, then push:
 
 ```bash
-cd /Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs
+cd <repo-root>
 git remote add origin git@github.com:<your-username>/openclaw-eventkit-plugin-docs.git
 git push -u origin main
 ```
