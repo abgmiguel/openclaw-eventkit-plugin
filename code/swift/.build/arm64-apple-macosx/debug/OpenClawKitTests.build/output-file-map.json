@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawKitTests.build/master.swiftdeps"
+  },
+  "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Tests/OpenClawKitTests/EventKitCommandsCodableTests.swift": {
+    "dependencies": "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawKitTests.build/EventKitCommandsCodableTests.d",
+    "object": "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawKitTests.build/EventKitCommandsCodableTests.swift.o",
+    "swiftmodule": "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawKitTests.build/EventKitCommandsCodableTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawKitTests.build/EventKitCommandsCodableTests.swiftdeps"
+  }
+}

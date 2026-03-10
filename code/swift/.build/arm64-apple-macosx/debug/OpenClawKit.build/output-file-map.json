@@ -1,0 +1,35 @@
+{
+  "": {
+    "swift-dependencies": "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawKit.build/master.swiftdeps"
+  },
+  "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Sources/OpenClawKit/BridgeFrames.swift": {
+    "dependencies": "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawKit.build/BridgeFrames.d",
+    "object": "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawKit.build/BridgeFrames.swift.o",
+    "swiftmodule": "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawKit.build/BridgeFrames~partial.swiftmodule",
+    "swift-dependencies": "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawKit.build/BridgeFrames.swiftdeps"
+  },
+  "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Sources/OpenClawKit/CalendarCommands.swift": {
+    "dependencies": "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawKit.build/CalendarCommands.d",
+    "object": "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawKit.build/CalendarCommands.swift.o",
+    "swiftmodule": "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawKit.build/CalendarCommands~partial.swiftmodule",
+    "swift-dependencies": "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawKit.build/CalendarCommands.swiftdeps"
+  },
+  "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Sources/OpenClawKit/Capabilities.swift": {
+    "dependencies": "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawKit.build/Capabilities.d",
+    "object": "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawKit.build/Capabilities.swift.o",
+    "swiftmodule": "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawKit.build/Capabilities~partial.swiftmodule",
+    "swift-dependencies": "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawKit.build/Capabilities.swiftdeps"
+  },
+  "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Sources/OpenClawKit/NodeError.swift": {
+    "dependencies": "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawKit.build/NodeError.d",
+    "object": "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawKit.build/NodeError.swift.o",
+    "swiftmodule": "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawKit.build/NodeError~partial.swiftmodule",
+    "swift-dependencies": "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawKit.build/NodeError.swiftdeps"
+  },
+  "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Sources/OpenClawKit/RemindersCommands.swift": {
+    "dependencies": "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawKit.build/RemindersCommands.d",
+    "object": "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawKit.build/RemindersCommands.swift.o",
+    "swiftmodule": "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawKit.build/RemindersCommands~partial.swiftmodule",
+    "swift-dependencies": "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawKit.build/RemindersCommands.swiftdeps"
+  }
+}

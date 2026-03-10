@@ -1,0 +1,4 @@
+module OpenClawKit {
+    header "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawKit.build/OpenClawKit-Swift.h"
+    requires objc
+}

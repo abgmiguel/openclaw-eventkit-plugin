@@ -1,0 +1,41 @@
+{
+  "": {
+    "swift-dependencies": "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawRuntime.build/master.swiftdeps"
+  },
+  "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Sources/OpenClawRuntime/CalendarService.swift": {
+    "dependencies": "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawRuntime.build/CalendarService.d",
+    "object": "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawRuntime.build/CalendarService.swift.o",
+    "swiftmodule": "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawRuntime.build/CalendarService~partial.swiftmodule",
+    "swift-dependencies": "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawRuntime.build/CalendarService.swiftdeps"
+  },
+  "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Sources/OpenClawRuntime/EventKitAuthorization.swift": {
+    "dependencies": "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawRuntime.build/EventKitAuthorization.d",
+    "object": "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawRuntime.build/EventKitAuthorization.swift.o",
+    "swiftmodule": "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawRuntime.build/EventKitAuthorization~partial.swiftmodule",
+    "swift-dependencies": "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawRuntime.build/EventKitAuthorization.swiftdeps"
+  },
+  "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Sources/OpenClawRuntime/GatewayConnectionController.swift": {
+    "dependencies": "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawRuntime.build/GatewayConnectionController.d",
+    "object": "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawRuntime.build/GatewayConnectionController.swift.o",
+    "swiftmodule": "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawRuntime.build/GatewayConnectionController~partial.swiftmodule",
+    "swift-dependencies": "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawRuntime.build/GatewayConnectionController.swiftdeps"
+  },
+  "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Sources/OpenClawRuntime/NodeAppModel.swift": {
+    "dependencies": "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawRuntime.build/NodeAppModel.d",
+    "object": "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawRuntime.build/NodeAppModel.swift.o",
+    "swiftmodule": "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawRuntime.build/NodeAppModel~partial.swiftmodule",
+    "swift-dependencies": "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawRuntime.build/NodeAppModel.swiftdeps"
+  },
+  "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Sources/OpenClawRuntime/NodeServiceProtocols.swift": {
+    "dependencies": "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawRuntime.build/NodeServiceProtocols.d",
+    "object": "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawRuntime.build/NodeServiceProtocols.swift.o",
+    "swiftmodule": "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawRuntime.build/NodeServiceProtocols~partial.swiftmodule",
+    "swift-dependencies": "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawRuntime.build/NodeServiceProtocols.swiftdeps"
+  },
+  "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Sources/OpenClawRuntime/RemindersService.swift": {
+    "dependencies": "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawRuntime.build/RemindersService.d",
+    "object": "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawRuntime.build/RemindersService.swift.o",
+    "swiftmodule": "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawRuntime.build/RemindersService~partial.swiftmodule",
+    "swift-dependencies": "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawRuntime.build/RemindersService.swiftdeps"
+  }
+}

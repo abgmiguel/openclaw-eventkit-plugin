@@ -1,0 +1,1091 @@
+{
+  "builtTestProducts" : [
+    {
+      "binaryPath" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawEventKitHandoffPackageTests.xctest/Contents/MacOS/OpenClawEventKitHandoffPackageTests",
+      "packagePath" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift",
+      "productName" : "OpenClawEventKitHandoffPackageTests"
+    }
+  ],
+  "copyCommands" : {
+
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.OpenClawEventKitHandoffPackageTests-arm64-apple-macosx14.0-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawEventKitHandoffPackageTests.build/sources",
+      "importPath" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawEventKitHandoffPackageTests.derived/runner.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/Modules/OpenClawRuntimeTests.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/Modules/OpenClawKitTests.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawEventKitHandoffPackageTests.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "OpenClawEventKitHandoffPackageTests",
+      "moduleOutputPath" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/Modules/OpenClawEventKitHandoffPackageTests.swiftmodule",
+      "objects" : [
+        "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawEventKitHandoffPackageTests.build/runner.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx14.0",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawEventKitHandoffPackageTests.build/OpenClawEventKitHandoffPackageTests-Swift.h",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "swift"
+      ],
+      "outputFileMapPath" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawEventKitHandoffPackageTests.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawEventKitHandoffPackageTests.build/runner.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/Modules/OpenClawEventKitHandoffPackageTests.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawEventKitHandoffPackageTests.derived/runner.swift"
+      ],
+      "tempsPath" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawEventKitHandoffPackageTests.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.OpenClawKit-arm64-apple-macosx14.0-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawKit.build/sources",
+      "importPath" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Sources/OpenClawKit/BridgeFrames.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Sources/OpenClawKit/CalendarCommands.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Sources/OpenClawKit/Capabilities.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Sources/OpenClawKit/NodeError.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Sources/OpenClawKit/RemindersCommands.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawKit.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "OpenClawKit",
+      "moduleOutputPath" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/Modules/OpenClawKit.swiftmodule",
+      "objects" : [
+        "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawKit.build/BridgeFrames.swift.o",
+        "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawKit.build/CalendarCommands.swift.o",
+        "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawKit.build/Capabilities.swift.o",
+        "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawKit.build/NodeError.swift.o",
+        "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawKit.build/RemindersCommands.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx14.0",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawKit.build/OpenClawKit-Swift.h",
+        "-swift-version",
+        "5",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "swift"
+      ],
+      "outputFileMapPath" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawKit.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawKit.build/BridgeFrames.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawKit.build/CalendarCommands.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawKit.build/Capabilities.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawKit.build/NodeError.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawKit.build/RemindersCommands.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/Modules/OpenClawKit.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Sources/OpenClawKit/BridgeFrames.swift",
+        "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Sources/OpenClawKit/CalendarCommands.swift",
+        "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Sources/OpenClawKit/Capabilities.swift",
+        "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Sources/OpenClawKit/NodeError.swift",
+        "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Sources/OpenClawKit/RemindersCommands.swift"
+      ],
+      "tempsPath" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawKit.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.OpenClawKitTests-arm64-apple-macosx14.0-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawKitTests.build/sources",
+      "importPath" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Tests/OpenClawKitTests/EventKitCommandsCodableTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/Modules/OpenClawKit.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawKitTests.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "OpenClawKitTests",
+      "moduleOutputPath" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/Modules/OpenClawKitTests.swiftmodule",
+      "objects" : [
+        "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawKitTests.build/EventKitCommandsCodableTests.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx14.0",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-swift-version",
+        "5",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "swift"
+      ],
+      "outputFileMapPath" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawKitTests.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawKitTests.build/EventKitCommandsCodableTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/Modules/OpenClawKitTests.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Tests/OpenClawKitTests/EventKitCommandsCodableTests.swift"
+      ],
+      "tempsPath" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawKitTests.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.OpenClawRuntime-arm64-apple-macosx14.0-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawRuntime.build/sources",
+      "importPath" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Sources/OpenClawRuntime/CalendarService.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Sources/OpenClawRuntime/EventKitAuthorization.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Sources/OpenClawRuntime/GatewayConnectionController.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Sources/OpenClawRuntime/NodeAppModel.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Sources/OpenClawRuntime/NodeServiceProtocols.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Sources/OpenClawRuntime/RemindersService.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/Modules/OpenClawKit.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawRuntime.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "OpenClawRuntime",
+      "moduleOutputPath" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/Modules/OpenClawRuntime.swiftmodule",
+      "objects" : [
+        "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawRuntime.build/CalendarService.swift.o",
+        "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawRuntime.build/EventKitAuthorization.swift.o",
+        "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawRuntime.build/GatewayConnectionController.swift.o",
+        "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawRuntime.build/NodeAppModel.swift.o",
+        "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawRuntime.build/NodeServiceProtocols.swift.o",
+        "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawRuntime.build/RemindersService.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx14.0",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawRuntime.build/OpenClawRuntime-Swift.h",
+        "-swift-version",
+        "5",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "swift"
+      ],
+      "outputFileMapPath" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawRuntime.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawRuntime.build/CalendarService.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawRuntime.build/EventKitAuthorization.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawRuntime.build/GatewayConnectionController.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawRuntime.build/NodeAppModel.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawRuntime.build/NodeServiceProtocols.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawRuntime.build/RemindersService.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/Modules/OpenClawRuntime.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Sources/OpenClawRuntime/CalendarService.swift",
+        "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Sources/OpenClawRuntime/EventKitAuthorization.swift",
+        "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Sources/OpenClawRuntime/GatewayConnectionController.swift",
+        "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Sources/OpenClawRuntime/NodeAppModel.swift",
+        "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Sources/OpenClawRuntime/NodeServiceProtocols.swift",
+        "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Sources/OpenClawRuntime/RemindersService.swift"
+      ],
+      "tempsPath" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawRuntime.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.OpenClawRuntimeTests-arm64-apple-macosx14.0-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawRuntimeTests.build/sources",
+      "importPath" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Tests/OpenClawRuntimeTests/GatewayConnectionControllerTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Tests/OpenClawRuntimeTests/NodeAppModelInvokeTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/Modules/OpenClawRuntime.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/Modules/OpenClawKit.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawRuntimeTests.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "OpenClawRuntimeTests",
+      "moduleOutputPath" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/Modules/OpenClawRuntimeTests.swiftmodule",
+      "objects" : [
+        "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawRuntimeTests.build/GatewayConnectionControllerTests.swift.o",
+        "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawRuntimeTests.build/NodeAppModelInvokeTests.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx14.0",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-swift-version",
+        "5",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "swift"
+      ],
+      "outputFileMapPath" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawRuntimeTests.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawRuntimeTests.build/GatewayConnectionControllerTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawRuntimeTests.build/NodeAppModelInvokeTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/Modules/OpenClawRuntimeTests.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Tests/OpenClawRuntimeTests/GatewayConnectionControllerTests.swift",
+        "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Tests/OpenClawRuntimeTests/NodeAppModelInvokeTests.swift"
+      ],
+      "tempsPath" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawRuntimeTests.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "OpenClawEventKitHandoffPackageTests" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "OpenClawEventKitHandoffPackageTests",
+      "-package-name",
+      "swift",
+      "-incremental",
+      "-c",
+      "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawEventKitHandoffPackageTests.derived/runner.swift",
+      "-I",
+      "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx14.0",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawEventKitHandoffPackageTests.build/OpenClawEventKitHandoffPackageTests-Swift.h",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "swift",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "OpenClawKit" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "OpenClawKit",
+      "-package-name",
+      "swift",
+      "-incremental",
+      "-c",
+      "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Sources/OpenClawKit/BridgeFrames.swift",
+      "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Sources/OpenClawKit/CalendarCommands.swift",
+      "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Sources/OpenClawKit/Capabilities.swift",
+      "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Sources/OpenClawKit/NodeError.swift",
+      "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Sources/OpenClawKit/RemindersCommands.swift",
+      "-I",
+      "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx14.0",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawKit.build/OpenClawKit-Swift.h",
+      "-swift-version",
+      "5",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "swift",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "OpenClawKitTests" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "OpenClawKitTests",
+      "-package-name",
+      "swift",
+      "-incremental",
+      "-c",
+      "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Tests/OpenClawKitTests/EventKitCommandsCodableTests.swift",
+      "-I",
+      "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx14.0",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-swift-version",
+      "5",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "swift",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "OpenClawRuntime" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "OpenClawRuntime",
+      "-package-name",
+      "swift",
+      "-incremental",
+      "-c",
+      "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Sources/OpenClawRuntime/CalendarService.swift",
+      "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Sources/OpenClawRuntime/EventKitAuthorization.swift",
+      "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Sources/OpenClawRuntime/GatewayConnectionController.swift",
+      "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Sources/OpenClawRuntime/NodeAppModel.swift",
+      "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Sources/OpenClawRuntime/NodeServiceProtocols.swift",
+      "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Sources/OpenClawRuntime/RemindersService.swift",
+      "-I",
+      "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx14.0",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawRuntime.build/OpenClawRuntime-Swift.h",
+      "-swift-version",
+      "5",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "swift",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "OpenClawRuntimeTests" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "OpenClawRuntimeTests",
+      "-package-name",
+      "swift",
+      "-incremental",
+      "-c",
+      "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Tests/OpenClawRuntimeTests/GatewayConnectionControllerTests.swift",
+      "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Tests/OpenClawRuntimeTests/NodeAppModelInvokeTests.swift",
+      "-I",
+      "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx14.0",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-swift-version",
+      "5",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "swift",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "OpenClawEventKitHandoffPackageTests" : [
+      "OpenClawKitTests",
+      "OpenClawRuntimeTests",
+      "OpenClawRuntime",
+      "OpenClawKit"
+    ],
+    "OpenClawKit" : [
+
+    ],
+    "OpenClawKitTests" : [
+      "OpenClawKit"
+    ],
+    "OpenClawRuntime" : [
+      "OpenClawKit"
+    ],
+    "OpenClawRuntimeTests" : [
+      "OpenClawRuntime",
+      "OpenClawKit"
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+    "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawEventKitHandoffPackageTests.derived/runner.swift" : {
+      "inputs" : [
+
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawEventKitHandoffPackageTests.derived/runner.swift"
+        }
+      ]
+    }
+  },
+  "writeCommands" : {
+    "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawEventKitHandoffPackageTests.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawEventKitHandoffPackageTests.derived/runner.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawEventKitHandoffPackageTests.build/sources"
+    },
+    "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawEventKitHandoffPackageTests.product/Objects.LinkFileList" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<link-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawEventKitHandoffPackageTests.build/runner.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawKit.build/BridgeFrames.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawKit.build/CalendarCommands.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawKit.build/Capabilities.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawKit.build/NodeError.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawKit.build/RemindersCommands.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawKitTests.build/EventKitCommandsCodableTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawRuntime.build/CalendarService.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawRuntime.build/EventKitAuthorization.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawRuntime.build/GatewayConnectionController.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawRuntime.build/NodeAppModel.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawRuntime.build/NodeServiceProtocols.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawRuntime.build/RemindersService.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawRuntimeTests.build/GatewayConnectionControllerTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawRuntimeTests.build/NodeAppModelInvokeTests.swift.o"
+        }
+      ],
+      "outputFilePath" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawEventKitHandoffPackageTests.product/Objects.LinkFileList"
+    },
+    "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawKit.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Sources/OpenClawKit/BridgeFrames.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Sources/OpenClawKit/CalendarCommands.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Sources/OpenClawKit/Capabilities.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Sources/OpenClawKit/NodeError.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Sources/OpenClawKit/RemindersCommands.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawKit.build/sources"
+    },
+    "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawKitTests.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Tests/OpenClawKitTests/EventKitCommandsCodableTests.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawKitTests.build/sources"
+    },
+    "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawRuntime.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Sources/OpenClawRuntime/CalendarService.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Sources/OpenClawRuntime/EventKitAuthorization.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Sources/OpenClawRuntime/GatewayConnectionController.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Sources/OpenClawRuntime/NodeAppModel.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Sources/OpenClawRuntime/NodeServiceProtocols.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Sources/OpenClawRuntime/RemindersService.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawRuntime.build/sources"
+    },
+    "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawRuntimeTests.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Tests/OpenClawRuntimeTests/GatewayConnectionControllerTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/Tests/OpenClawRuntimeTests/NodeAppModelInvokeTests.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/OpenClawRuntimeTests.build/sources"
+    },
+    "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/Users/miguel/.openclaw/workspace/openclaw-eventkit-plugin-docs/code/swift/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+    }
+  }
+}
